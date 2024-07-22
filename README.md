@@ -23,6 +23,8 @@ poetry add git+https://github.com/Vortex5Root/NatNetSDK_4.1.0.git
 pip install git+https://github.com/Vortex5Root/NatNetSDK_4.1.0.git
 ```
 
+## Documentation
+
 [![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)](DOCUMENTION.md)
 
 ## Authors 
