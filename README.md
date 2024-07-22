@@ -4,7 +4,7 @@
 [![Security: bandit](https://img.shields.io/badge/security-bandit-green.svg)](https://github.com/PyCQA/bandit)
 [![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/Vortex5Root/NatNetSDK_4.1.0/blob/master/.pre-commit-config.yaml)
 [![Semantic Versions](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--versions-e10079.svg)](https://github.com/Vortex5Root/NatNetSDK_4.1.0/releases)
-[![License](https://img.shields.io/github/license/setup/setup)](./LICENSE)
+[![License](https://img.shields.io/github/license/Vortex5Root/NatNetSDK_4.1.0)](./LICENSE)
 
 # NatNet-SDK (4.1.0.0)
 
