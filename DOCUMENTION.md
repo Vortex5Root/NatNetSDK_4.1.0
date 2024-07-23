@@ -6,7 +6,21 @@
 [![Semantic Versions](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--versions-e10079.svg)](https://github.com/Vortex5Root/NatNetSDK_4.1.0/releases)
 [![License](https://img.shields.io/github/license/Vortex5Root/NatNetSDK_4.1.0)](./LICENSE)
 
+
 # Index
+
+| Topics | Sub Topics | Examples |
+|--------|------------|----------|
+| [NatNet-SDK](#NatNet-SDK) | [What is NatNet-SDK?](#What-is-NatNet-SDK?) | |
+| | [What Function i have in NatNet-SDK?](#What-Function-i-have-in-NatNet-SDK?) | |
+| | [How to imported?](#How-to-imported?) | [How to set the connection parameter's ?](#How-to-set-the-connection-parameter's-?) | |
+| | | [How to reive the data from the Server?](#How-to-reive-the-data-from-the-Server?) |
+
+## NatNet-SDK
+
+### What is NatNet-SDK?
+
+NatNet SDK is a library that allows you to communicate with the NatNet Server and retrieve data from the server. This library has been created to work with the NatNet protocol and is used to retrieve data from the server and display it in your application
 
 ## What Function i have in NatNet-SDK?
 
