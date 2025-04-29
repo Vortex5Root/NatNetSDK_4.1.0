@@ -36,21 +36,12 @@ pip install git+https://github.com/Vortex5Root/NatNetSDK_4.1.0.git#egg=natnetsdk
 
 [![Wiki.py](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)](DOCUMENTION.md)
 
-## Authors 
-[Coder]
 
-<a href="https://github.com/Vortex5Root">
-    <div style="display: flex; justify-content: center; align-items: center; height: 100px; width: 450px;">
-        <img src=https://avatars.githubusercontent.com/u/102427260?s=200&v=4 width=50 style="border-radius: 50%;">
-        <a href="https://github.com/Vortex5Root">Vortex5Root <br><b>        {Full-Stack Software Engineer}</b></a>
-    </div>
-</a>
+<h2 align="center">Acknowledgements</h2>
 
-[Lab]
-
-<a href="https://github.com/lunarring">
-    <div style="display: flex; justify-content: center; align-items: center; height: 100px; width: 450px;">
-        <img src=https://avatars.githubusercontent.com/u/78172771?s=200&v=4 width=50 style="border-radius: 50%;">
-        <a href="https://github.com/lunarring">LunarRing <br><b>        {MLCore in Champalimaud Foundation}</b></a>
-    </div>
-</a>
+<p align="center">
+    <br>[Coder]<br>
+    <a href="https://github.com/Vortex5Root"><img src=https://avatars.githubusercontent.com/u/102427260?s=200&v=4 width=50 style="border-radius: 50%;"><br>Vortex5Root <br><b>        {Full-Stack Software Engineer}</b></a><br>
+    <br>[Lab]<br>
+    <a href="https://github.com/lunarring"><img src=https://avatars.githubusercontent.com/u/78172771?s=200&v=4 width=50 style="border-radius: 50%;"><br>LunarRing <br><b>        {MLCore in Champalimaud Foundation}</b></a><br><br>
+</p>
