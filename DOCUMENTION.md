@@ -1,10 +1,21 @@
+<h1 align="center"> NatNet-SDK (4.1.0.0) </h1>
 
-[![Dependencies Status](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)](https://github.com/Vortex5Root/NatNetSDK_4.1.0/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aapp%2Fdependabot)
+<p align="center">
+    <a href="https://github.com/Vortex5Root/NatNetSDK_4.1.0/releases"><img alt="Dynamic TOML Badge" src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FVortex5Root%2FNatNetSDK_4.1.0%2Fmain%2Fpyproject.toml&query=%24.tool.poetry.version&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAtFBMVEVHcEyWYTihdkuXYzrBjlqhbkHepWuzglG8hFGWYjmzglHepmz3z5iygVCWYjmWYjmxgVDsvorMlmDepmybaD2oe02ufU2leUzdpWqzglGfdUrgqnH616j%2F4LKWYjmvf1C3hVPepmyWYjmWZDuWYjmzglGWYjmwfk7fp22aZjz93a7VoGmpfFKdbEe4hlTFkFzwxZH30aDpuYO%2BnICUbUbGkl3jrnbjr3eSYjuuiWzNq4fjvI5PAatoAAAAJXRSTlMA4v34FBH4Jwwn4l8IXFG6%2FrWcv2PCZqdJxeX291Ci4uVQ5eQoZPLoqAAAAIxJREFUCNdFzscCgjAQBNA1JIAGVMDeW0iEAPb6%2F%2F9lCuqc9s1eBkDHpxTDN8E8mroJ9S1G0Sw7noSbrAMAHLvidshMERPwVlUuxF0Vb7ltgtdi5VUV%2BetcNAwZKyv%2BeP7J%2BD6VRaq5rKmiOUGoW3OzAzxEF2npLIgaGPbN1%2Bm07S4SjvkPOnjQI%2Bb4AGCaEYNClUKKAAAAAElFTkSuQmCC&label=Package%20Version"></a>
+</p>
 
-[![Security: bandit](https://img.shields.io/badge/security-bandit-green.svg)](https://github.com/PyCQA/bandit)
-[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/Vortex5Root/NatNetSDK_4.1.0/blob/master/.pre-commit-config.yaml)
-[![Semantic Versions](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--versions-e10079.svg)](https://github.com/Vortex5Root/NatNetSDK_4.1.0/releases)
-[![License](https://img.shields.io/github/license/Vortex5Root/NatNetSDK_4.1.0)](./LICENSE)
+-------
+
+<p align="center">
+    <a href="https://github.com/Vortex5Root/NatNetSDK_4.1.0/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Vortex5Root/NatNetSDK_4.1.0.svg" alt="License">
+    <a href="https://github.com/Vortex5Root/NatNetSDK_4.1.0/releases"><img src="https://img.shields.io/github/downloads/Vortex5Root/NatNetSDK_4.1.0/total.svg" alt="GitHub all releases"></a><br>
+    <a href="https://github.com/Vortex5Root/NatNetSDK_4.1.0/network"><img src="https://img.shields.io/github/forks/Vortex5Root/NatNetSDK_4.1.0.svg" alt="GitHub forks"></a>
+    <a href="https://github.com/Vortex5Root/NatNetSDK_4.1.0/stargazers"><img src="https://img.shields.io/github/stars/Vortex5Root/NatNetSDK_4.1.0.svg" alt="GitHub stars"></a>
+    <a href="https://github.com/Vortex5Root/NatNetSDK_4.1.0/watchers"><img src="https://img.shields.io/github/watchers/Vortex5Root/NatNetSDK_4.1.0.svg" alt="GitHub watchers"></a><br>
+    <a href="https://github.com/Vortex5Root/NatNetSDK_4.1.0/issues"><img src="https://img.shields.io/github/issues/Vortex5Root/NatNetSDK_4.1.0.svg" alt="GitHub issues"></a>
+    <a href="https://github.com/Vortex5Root/NatNetSDK_4.1.0/pulls"><img src="https://img.shields.io/github/issues-pr/Vortex5Root/NatNetSDK_4.1.0.svg" alt="GitHub pull requests"></a>
+    <a href="https://github.com/Vortex5Root/NatNetSDK_4.1.0/commits/master"><img src="https://img.shields.io/github/last-commit/Vortex5Root/NatNetSDK_4.1.0.svg" alt="GitHub last commit"></a><br>
+</p>
 
 
 # Index
